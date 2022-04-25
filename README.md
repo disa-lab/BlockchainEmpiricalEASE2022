@@ -1,5 +1,8 @@
-# Files
-Parsed files from GHTorrent dataset
+# BlockchainEmpiricalEASE2022
+Replication package for our conference paper titled "An Empirical Study of Blockchain Repositories in GitHub" accepted at "EASE 2022".
+
+## Files
+### Parsed files from GHTorrent dataset
 - repo-metadata.csv
 - commits.csv
 - commit_comments.csv
@@ -10,7 +13,7 @@ Parsed files from GHTorrent dataset
 - pull_request_history.csv
 - pull_request_comments.csv
 
-Generated files
+### Generated files
 For collaboration computation (In `collaboration` folder):
 Interaction of all kinds-
 - collaboration-commits.csv 
